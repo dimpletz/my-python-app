@@ -1,4 +1,3 @@
-"""
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -40,4 +39,3 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-"""

@@ -1,4 +1,3 @@
-"""
 # My Python Application
 
 This is a template for Python applications using Poetry for dependency management.
@@ -36,4 +35,3 @@ poetry run pytest
 ## License
 
 MIT
-"""
